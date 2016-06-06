@@ -14,9 +14,39 @@ For the meshes shown above, you may go to the 3D model repository by Keenan (htt
 
 The code is authored by Yun Fei (http://yunfei.work).
 
+##Usage
+
+With the controls on down-right part of screen you may (ordered from top to bottom):
+
+Change the number of samples
+
+Change the tessellation level of meshes
+
+Change the speed of simulation
+
+Change the kernel size
+
+Change the X coordinate of the initial samples (adjust this if you want to sample different sides of the mesh)
+
+Change the Y coordinate of the initial samples (adjust this if you want to sample different sides of the mesh)
+
+Change the Z coordinate of the initial samples (adjust this if you want to sample different sides of the mesh)
+
+Use inverted normal of the mesh
+
+Load a .obj file
+
+Re-sample
+
+Save the samples
+
+Change the threshold that classify the samples as surface-samples
+
+Save the samples classified as surface-samples
+
 Note: on some machines with HiDPI screens the window may not shown after started, press [Left Alt+Enter] to enter full-screen then click 'toggle fullscreen' button the window can be recovered. 
 
-Bibtex:
+##Bibtex
 
 @MISC{Fei:2012:Misc,
 
