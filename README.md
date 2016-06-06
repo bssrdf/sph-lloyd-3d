@@ -14,12 +14,20 @@ For the meshes shown above, you may go to the 3D model repository by Keenan (htt
 
 The code is authored by Yun Fei (http://yunfei.work).
 
+Note: on some machines with HiDPI screens the window may not shown after started, press <Left Alt+Enter> to enter full-screen then click 'toggle fullscreen' button the window can be recovered. 
 
 Bibtex:
+
 @MISC{Fei:2012:Misc,
+
 author = {Fei, Yun},
+
 title = {Mesh2Centroids: SPH-based Lloyd's Relaxation on GPU inside 3D Meshes},
+
 month = dec,
+
 year = {2012},
+
 url = {https://github.com/nepluno/sph-lloyd-3d}
+
 }
